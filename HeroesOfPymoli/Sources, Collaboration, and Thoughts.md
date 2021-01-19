@@ -6,6 +6,4 @@
 
 ### Thoughts
 - What is being asked?
-  -
 - Pseudocode
-  - 
