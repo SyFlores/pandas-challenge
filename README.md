@@ -1,6 +1,8 @@
 # pandas-challenge
 We will be creating Python scripts using the Pandas module in Jupyter Notebooks to do the following:
+
 ---
+
 ## **Heroes of Pymoli**
 We are tasked to generate a report that breaks down purchasing data for the recent fantasy game, Heroes of Pymoli
 The final report includes the following:
