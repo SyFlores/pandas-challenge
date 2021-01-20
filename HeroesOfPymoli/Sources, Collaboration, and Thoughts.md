@@ -1,5 +1,8 @@
 ### Sources
-- 
+- How do we drop duplicate values based on unique column combinations?
+  - Need to return a .countby on Gender while removing duplicates on SN
+  - We can get unique counts and percentages by gender by using .drop_duplicates()
+    - Source: GeeksforGeeks [article](https://www.geeksforgeeks.org/python-pandas-dataframe-drop_duplicates/) on dataframe.drop_duplicates
 
 ### Collaborations
 -
@@ -29,7 +32,9 @@ What is Being Asked? Pseudocode.
   - WiBA
     - Return a 3x2 table with the 3 Gender values against Total Count and Percentage of Players
   - Pc
-    - Use either .value_counts and then append the percentage after OR .groupby and perform .count and calculate the percentage using a sum and division
+    - Use .drop_duplicates() to only get unique SN and Gender pairings for an accurate count
+    - Use .value_counts and then append the percentage after
+      - We can get the percentage by proving 'SN' as an argument in .value_counts
 - Purchasing Analysis (Gender)
   - WiBA
     - Return a Gender breakdown giving Purchase Count, Average Purchase Price, and Total Purchase Value, and Average Total Purchase PER PERSON
