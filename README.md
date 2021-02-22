@@ -35,7 +35,7 @@ The final report includes the following:
   - Total Purchase Price
   - Average Purchase Total per Person by Age Group
   
-### **To Spenders**
+### **Top Spenders**
 - Identify the top 5 spenders in the game by total purchase value, then list (in a table):
   - SN
   - Purchase Count
