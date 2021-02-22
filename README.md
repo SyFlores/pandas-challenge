@@ -1,4 +1,10 @@
 # pandas-challenge
+
+## Conclusions
+- The focus on audience should largely be on 20 to 24 year old players as they not only make up ~45% of the player base, they account for a substantial proportion of spending ($1,114.06).
+- While there are a number of users with consistent spending habits, there exist no individual 'whale' users.
+- 'The Final Critic' and 'Oathbreaker, Last Hope of the Breaking Storm' should be pushed more heavily as they are conisistent buys with high purchase totals. This may be reflective of their in-game niche as affordable and useful items.
+
 We will be creating Python scripts using the Pandas module in Jupyter Notebooks to do the following:
 
 ---

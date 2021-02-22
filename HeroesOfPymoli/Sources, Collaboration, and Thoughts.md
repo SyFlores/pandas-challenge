@@ -3,9 +3,12 @@
   - Need to return a .countby on Gender while removing duplicates on SN
   - We can get unique counts and percentages by gender by using .drop_duplicates()
     - Source: GeeksforGeeks [article](https://www.geeksforgeeks.org/python-pandas-dataframe-drop_duplicates/) on dataframe.drop_duplicates
+- All other sources
+  - All other questions troubleshooted directly through Pandas documentation
+    - Source: Pandas [Documentation](https://pandas.pydata.org/pandas-docs/stable/index.html)
 
 ### Collaborations
--
+- No collaboration on this repository
 
 ### Thoughts
 What is Being Asked? Pseudocode.
